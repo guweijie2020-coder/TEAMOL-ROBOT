@@ -110,6 +110,7 @@
 *   **联系方式**：
     *   创始人/团队名称：TEAMOL-ROBOT
     *   微信/Telegram：ABCDCSYS
+    *   Email: guweijie2020@gmail.com
     *   GitHub/演示环境：localhost:8501（演示专用，预约随时可提供远程Demo）
 
 ---
